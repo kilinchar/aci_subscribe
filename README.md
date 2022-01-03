@@ -85,7 +85,7 @@ Postgre can be installed or configured as docker container since it is easy to i
 
 ---
 
-## How TO Install
+## How To Install
 
 Subscriber can be used alone with running aci_subscriber script alone or it can be used in containerised way. 
 
