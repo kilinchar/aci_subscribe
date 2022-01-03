@@ -1,11 +1,11 @@
 # ACI Subscriber
 
 ## Sections
-- [Description](#Description)
+- [Description](#description)
 - [How it Works?](#cisco-aci)
 - [Websocket and ACI](#websocket-and-aci)
 - [Parsing and Storing Data](#parsing-and-storing-data)
-- [PostgreSQL](#PostgreSQL)
+- [PostgreSQL](#postgresql)
 - [Overall Flow Diagram](#overall-flow-diagram)
 - [How To Install](#how-to-install)
 - [Author Info](#author-info)
