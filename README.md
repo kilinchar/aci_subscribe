@@ -81,7 +81,7 @@ Postgre can be installed or configured as docker container since it is easy to i
 
 ## Overall Flow Diagram 
 
-![Flow Diagram](https://github.com/kilinchar/aci_subscribe/blob/main/Capture_jpeg.JPG)
+![Flow Diagram](https://github.com/kilinchar/aci_subscribe/blob/master/Capture_jpeg.JPG)
 
 ---
 
