@@ -87,7 +87,7 @@ Postgre can be installed or configured as docker container since it is easy to i
 
 ## How To Install
 
-Subscriber can be used alone with running aci_subscriber script alone or it can be used in containerised way. 
+Subscriber can be used alone with running aci_subscriber script alone or it can be used in containerized way. 
 
 
 
@@ -95,7 +95,7 @@ Subscriber can be used alone with running aci_subscriber script alone or it can 
 
     1. Copy content of folder named src.
     2. Edit config.py with your own variables.
-    3. Install dependentt libraries (pip install -r /path/to/requirements.txt)
+    3. Install dependentt libraries (pip install -r requirements.txt)
     4. Run aci_subscriber script (python aci_subscriber.py)
 
 
