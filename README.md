@@ -95,7 +95,7 @@ Subscriber can be used alone with running aci_subscriber script alone or it can 
 
     1. Copy content of folder named src.
     2. Edit config.py with your own variables.
-    3. Install dependentt libraries (pip install -r requirements.txt)
+    3. Install dependent libraries (pip install -r requirements.txt)
     4. Run aci_subscriber script (python aci_subscriber.py)
 
 
@@ -110,7 +110,7 @@ On the other hand  second way is advised one since you can install all dependenc
     4. Create and run docker container using previously created image:
     > docker run -d --restart unless-stopped aci_subscriber
 
-That is all.
+If you have any questions or advice, feel free to reach me out. That is all. Enjoy with it.
 
 ---
 
