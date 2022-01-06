@@ -69,7 +69,7 @@ Storing data another important aspect of this project. In our case we need to ke
 
 ### PostgreSQL 
 
-Since data needs to be stored in a SQL Db, postgreSQL is choosed.
+Since data needs to be stored in a SQL Db, postgreSQL is being choosed.
 
 Postgre can be installed or configured as docker container since it is easy to install and operate however if user has their pre-installed DB it can be used as well.
 
